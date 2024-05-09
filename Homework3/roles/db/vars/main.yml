@@ -1,0 +1,3 @@
+db_name: bakytdata
+db_user: ansible
+db_password: new_password
